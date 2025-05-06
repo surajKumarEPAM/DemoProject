@@ -10,3 +10,5 @@ this is new line added from remote
 This is another new line added from remote
 this line is random change from local
 first
+Second
+third
